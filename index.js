@@ -30,5 +30,3 @@ var theFunk = funkyFunction();
 function theFunk() {
   return 'is FUNKY'
 }
-
-
